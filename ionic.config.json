@@ -1,0 +1,7 @@
+{
+  "name": "FurnituneApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
